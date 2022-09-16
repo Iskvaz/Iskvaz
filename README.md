@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hola Mundo 👋
 
 
-**Iskvaz** é uma breve apresentação do meu desenvolvimento. 
+**Iskvaz** é uma breve apresentação do meu desenvolvimento enquanto estudante. 
+
+Estou empenhado em deselvolver novos conhecimentos voltados para area de tecnologia, apos varios anos resolvi atender a um sonho antigo e agora estou em transição de carreira!!
 <!--
 Here are some ideas to get you started:
 
