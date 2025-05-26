@@ -1,4 +1,4 @@
-### Hello word 👋
+### Hello world 👋
 
 
 **Iskvaz** é uma breve apresentação do meu desenvolvimento enquanto estudante. 
